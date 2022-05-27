@@ -34,7 +34,7 @@ var Module=typeof Module!=="undefined"?Module:{};//                             
 //
 // SimpleWebXR - Unity
 //
-// https://github.com/Erin/Simple-WebXR-Unity
+// https://github.com/ErinSolo/Brilliant-Labs-Demos
 //
 // -----------------------------------------------------------------------------
 //
